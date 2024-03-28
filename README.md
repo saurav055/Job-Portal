@@ -14,6 +14,9 @@ CSS,
 Bootstrap,
 MYSQL,
 
-Modules:-
-Admin Module
-User Module
+Modules:-Admin,User
+
+Login Page
+Signup Page
+
+
