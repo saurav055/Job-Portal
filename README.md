@@ -16,7 +16,8 @@ MYSQL,
 
 Modules:-Admin,User
 
-Login Page
-Signup Page
+Login Page,
+Signup Page,
+View Page
 
 
